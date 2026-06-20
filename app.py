@@ -1,6 +1,6 @@
 from data import foods
 
-print("🍔 Welcome to Food Recommender System 🍔")
+print("Welcome to Food Recommender System ")
 
 # Take user input
 food_type = input("Enter food type (fast food / dessert / indian / healthy): ").lower()
@@ -28,8 +28,8 @@ recommendations.sort(key=lambda x: x[1], reverse=True)
 
 # Display results
 if recommendations:
-    print("🍽️ Recommended for you:")
+    print(" Recommended for you:")
     for item in recommendations:
         print(f"- {item[0]} (match score: {item[1]})")
 else:
-    print("❌ No matching food found")
+    print(" No matching food found")
