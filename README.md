@@ -1,6 +1,6 @@
-# 🍔 Food Recommender System (Beginner AI Project)
+#  Food Recommender System (Beginner AI Project)
 
-## 📌 Overview
+##  Overview
 
 This is a simple **Food Recommendation System** built using Python.
 It suggests food items based on user preferences like **taste, cuisine, and budget**.
@@ -9,7 +9,7 @@ This project is part of my Artificial Intelligence learning journey and focuses 
 
 ---
 
-## 🎯 Features
+##  Features
 
 * Takes user input (taste, cuisine, budget)
 * Matches preferences with dataset
@@ -18,7 +18,7 @@ This project is part of my Artificial Intelligence learning journey and focuses 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The system uses:
 
@@ -30,13 +30,13 @@ It compares user input with food data and recommends matching items.
 
 ---
 
-## 🖥️ Output Screenshot
+##  Output Screenshot
 
 ![Output Screenshot](output.png)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Step 1: Clone Repository
 
@@ -53,7 +53,7 @@ python app.py
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 food-recommender/
@@ -65,14 +65,14 @@ food-recommender/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Basic AI Logic (Rule-Based Recommendation)
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 * https://roadmap.sh/python
 * https://www.w3schools.com/
@@ -81,7 +81,7 @@ food-recommender/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add Machine Learning (collaborative filtering)
 * Add UI using Streamlit
@@ -90,12 +90,12 @@ food-recommender/
 
 ---
 
-## 💡 Author
+##  Author
 
 Rajat
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project helped me understand the basics of recommendation systems and how AI can be applied using simple logic.
