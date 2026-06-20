@@ -6,7 +6,7 @@ print("Welcome to Food Recommender System ")
 food_type = input("Enter food type (fast food / dessert / indian / healthy): ").lower()
 taste = input("Enter taste (sweet / spicy / savory / fresh): ").lower()
 
-print("\n🔍 Finding best matches...\n")
+print("\n Finding best matches...\n")
 
 # Recommendation logic
 recommendations = []
