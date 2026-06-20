@@ -32,7 +32,7 @@ It compares user input with food data and recommends matching items.
 
 ## 🖥️ Output Screenshot
 
-![Output Screenshot](screenshot.png)
+![Output Screenshot](output.png)
 
 ---
 
@@ -41,7 +41,7 @@ It compares user input with food data and recommends matching items.
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/food-recommender.git
+git clone https://github.com/kaushik4491-byte/food-recommender.git
 cd food-recommender
 ```
 
@@ -92,7 +92,7 @@ food-recommender/
 
 ## 💡 Author
 
-Your Name
+Rajat
 
 ---
 
